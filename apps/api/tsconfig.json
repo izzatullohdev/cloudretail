@@ -8,5 +8,5 @@
     "strict": true,
     "target": "esnext"
   },
-  "include": ["src/**/*", "src/**/*"]
+  "include": ["src/**/*", "eslint.config.mjs"]
 }
