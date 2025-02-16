@@ -7,6 +7,5 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext"
-  },
-  "include": ["src/**/*", "eslint.config.mjs"]
+  }
 }
